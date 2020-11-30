@@ -1,3 +1,4 @@
+//Loads github and linkedIn pages
 const githubLink = document.querySelector("#icon0");
 const linkedinLink = document.querySelector("#icon1");
 
